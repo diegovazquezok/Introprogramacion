@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/entregas/Tema8/Tema8.iml" filepath="$PROJECT_DIR$/entregas/Tema8/Tema8.iml" />
       <module fileurl="file://$PROJECT_DIR$/entregas/entregas.iml" filepath="$PROJECT_DIR$/entregas/entregas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/introduccion a la programacion.iml" filepath="$PROJECT_DIR$/introduccion a la programacion.iml" />
     </modules>
   </component>
 </project>
